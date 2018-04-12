@@ -10,6 +10,9 @@ ng new ng-forms
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code 
+
+angular documentation: https://angular.io/api/forms/FormBuilder
+
 refer to: https://coursetro.com/posts/code/66/Angular-4-Reactive-Forms-Tutorial
 
 with some additions
